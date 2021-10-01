@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "front.url",
+      "type": "java.lang.String",
+      "description": "The url of the front-end."
+    },
+    {
+      "name": "hibernate.search.backend.directory.root",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.search.backend.directory.root."
+    },
+    {
+      "name": "enableStartupMassIndexation",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the Lucene indexation on start."
+    }
+  ]
+}
